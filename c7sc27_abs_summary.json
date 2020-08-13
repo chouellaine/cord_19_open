@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 27, "abstract_summ": " We address the problem of proving the satisfiability of Constrained Horn Clauses with Algebraic Data Types . We propose a new technique for transforming CHCs with ADTs into CHCs where predicates are defined over basic types, such as integers and booleans ."}

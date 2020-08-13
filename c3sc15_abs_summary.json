@@ -1,0 +1,1 @@
+{"cluster": 3, "subcluster": 15, "abstract_summ": " Tabular data to Knowledge Graph matching is the process of assigning semantic tags from knowledge graphs to the elements of a table . This task is a challenging problem for various reasons, including the lack of metadata (e.g., table and column names), the noisiness, heterogeneity, incompleteness and ambiguity ."}

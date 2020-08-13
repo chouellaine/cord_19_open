@@ -1,0 +1,1 @@
+{"cluster": 5, "subcluster": 2, "abstract_summ": " We present the formulation and implementation of a stochastic Computational Fluid Dynamics (CFD) solver based on the widely used finite volume library - OpenFOAM . The aim is to accurately estimate the uncertainty in the result of a CFD simulation at a lower computational cost than the standard Monte Carlo (MC) method ."}

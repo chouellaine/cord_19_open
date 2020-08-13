@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 22, "abstract_summ": " Byzantine Model Checker (ByMC) implements several techniques for automatic verification of threshold-guarded distributed algorithms . Threshold guards are a basic primitive of many fault-tolerant algorithms that solve classical problems of distributed computing, such as reliable broadcast, two-phase commit, and consensus ."}

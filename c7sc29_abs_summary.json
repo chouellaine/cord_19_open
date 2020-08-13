@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 29, "abstract_summ": " A word [Formula: see text] is a scattered factor of a word w if u can be obtained from w by deleting some of its letters . The word w is called k-universal if its k-spectrum includes all words of length k over the alphabet . We show that a word can be reconstructed from the number of occurrences of at most scattered factors ."}

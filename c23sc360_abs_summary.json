@@ -1,0 +1,1 @@
+{"cluster": 23, "subcluster": 360, "abstract_summ": " This tutorial shows how to build, fit, and criticize disease transmission models in Stan . It should be useful to researchers interested in modeling the COVID-19 outbreak and doing Bayesian inference . Bayesian modeling provides a principled way to quantify uncertainty ."}

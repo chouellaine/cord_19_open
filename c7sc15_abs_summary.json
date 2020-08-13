@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 15, "abstract_summ": " This paper presents reverCSP, a tool to animate both forward and backward CSP computations . It allows us to reverse computations exactly in the same order in which they happened, or also in a causally-consistent way ."}

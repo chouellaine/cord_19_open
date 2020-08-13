@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 38, "abstract_summ": " We present HYPNO (HYpersequent Prover for NOn-normal modal logics), a Prolog-based theorem prover and countermodel generator for non-normal logics . We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic ."}

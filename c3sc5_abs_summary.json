@@ -1,0 +1,1 @@
+{"cluster": 3, "subcluster": 5, "abstract_summ": " We investigate BERT in an evidence retrieval and claim verification pipeline for the task of evidence-based claim verification . Our system achieves a new state of the art recall of 87.1 for retrieving evidence sentences out of the FEVER dataset ."}

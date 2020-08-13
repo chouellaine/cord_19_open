@@ -1,0 +1,1 @@
+{"cluster": 3, "subcluster": 3, "abstract_summ": " The main goal of this paper is to evaluate the usability of several algorithms on various sentiment-labeled datasets . The work is based on the IMDb dataset which contains movie reviews along with their associated labels . The goal is to obtain the model with the highest accuracy and the best generalization ."}

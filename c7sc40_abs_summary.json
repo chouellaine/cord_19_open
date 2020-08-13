@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 40, "abstract_summ": " iProver is a saturation theorem prover for first-order logic with equality, which is originally based on Inst-Gen . We have developed a flexible simplification setup that subsumes and generalises common architectures such as DISCOUNT or Otter ."}

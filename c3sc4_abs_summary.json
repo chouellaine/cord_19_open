@@ -1,0 +1,1 @@
+{"cluster": 3, "subcluster": 4, "abstract_summ": " Knowledge graph completion (KGC) aims to predict missing information in a knowledge graph . Many existing embedding-based KGC models solve the Out-of-knowledge-graph (OOKG) entity problem by utilizing textual information resources such as descriptions and types ."}

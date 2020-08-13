@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 4, "abstract_summ": " Non-volatile memory (NVM) is a new paradigm for memory that preserves its contents even after power loss . Software transactional memory algorithms allow for concurrent access to shared state . Like linearizability for concurrent data structures, opacity is the established notion of correctness for STMs ."}

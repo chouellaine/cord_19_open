@@ -1,0 +1,1 @@
+{"cluster": 9, "subcluster": 3, "abstract_summ": " The quality of speech signals is affected by a combination of background noise, reverberation, and other distortions in real-life environments . We show that a Deepfake detection model trained only on the DFDC can generalize to real \"in-the-wild\"Deepfake videos ."}

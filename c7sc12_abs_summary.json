@@ -1,0 +1,1 @@
+{"cluster": 7, "subcluster": 12, "abstract_summ": " Modern control systems are software-intensive and have adaptive features to provide safety and comfort . These software-based features demand software engineering approaches to guarantee correct operation . We use MISRA C for a low-level implementation instead ."}

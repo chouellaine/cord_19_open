@@ -1,0 +1,1 @@
+{"cluster": 8, "subcluster": 7, "abstract_summ": " This work introduces a scheduling technique using the Artificial Bee Colony (ABC) algorithm for static and dynamic environments . The ABC algorithm combines different initial populations and generation of new food source methods, including a moving operations technique and a local search method ."}
