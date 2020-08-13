@@ -1,0 +1,70 @@
+{
+    "cluster": 33,
+    "subcluster": 0,
+    "abstract_phrases": [
+        {
+            "text": "efficient infection control",
+            "rank": 0.08
+        },
+        {
+            "text": "oral public health",
+            "rank": 0.08
+        },
+        {
+            "text": "infection control protocols",
+            "rank": 0.079
+        },
+        {
+            "text": "covid-19 infection",
+            "rank": 0.078
+        },
+        {
+            "text": "oral diseases",
+            "rank": 0.077
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "coronavirus disease",
+            "rank": 0.135
+        },
+        {
+            "text": "chinese oral public health system].[emergency management",
+            "rank": 0.125
+        },
+        {
+            "text": "coronavirus infection",
+            "rank": 0.122
+        },
+        {
+            "text": "coronavirus pneumonia",
+            "rank": 0.122
+        },
+        {
+            "text": "coronavirus",
+            "rank": 0.119
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "efficient infection control",
+            "rank": 0.08
+        },
+        {
+            "text": "chinese oral public health",
+            "rank": 0.08
+        },
+        {
+            "text": "oral diseases",
+            "rank": 0.079
+        },
+        {
+            "text": "coronavirus disease",
+            "rank": 0.079
+        },
+        {
+            "text": "infection control protocols",
+            "rank": 0.079
+        }
+    ]
+}

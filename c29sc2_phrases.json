@@ -1,0 +1,70 @@
+{
+    "cluster": 29,
+    "subcluster": 2,
+    "abstract_phrases": [
+        {
+            "text": "covid-19 cell therapy",
+            "rank": 0.083
+        },
+        {
+            "text": "stem cell therapies",
+            "rank": 0.079
+        },
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.078
+        },
+        {
+            "text": "mesenchymal stem cell (msc)-based therapy",
+            "rank": 0.076
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.075
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.163
+        },
+        {
+            "text": "mesenchymal stem cell therapy",
+            "rank": 0.162
+        },
+        {
+            "text": "adipose-derived mesenchymal stem cells",
+            "rank": 0.154
+        },
+        {
+            "text": "jelly-derived mesenchymal stem cells",
+            "rank": 0.154
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.151
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "covid-19 cell therapy",
+            "rank": 0.089
+        },
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.089
+        },
+        {
+            "text": "stem cell therapies",
+            "rank": 0.087
+        },
+        {
+            "text": "mesenchymal stem cell (msc)-based therapy",
+            "rank": 0.085
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.083
+        }
+    ]
+}

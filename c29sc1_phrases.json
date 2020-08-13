@@ -1,0 +1,70 @@
+{
+    "cluster": 29,
+    "subcluster": 1,
+    "abstract_phrases": [
+        {
+            "text": "mesenchymal stem cell (msc)-based cell transplantation",
+            "rank": 0.093
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.087
+        },
+        {
+            "text": "stem cell therapy",
+            "rank": 0.087
+        },
+        {
+            "text": "direct cell\u2013cell contact",
+            "rank": 0.087
+        },
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.086
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.143
+        },
+        {
+            "text": "adipose-derived mesenchymal stem cells",
+            "rank": 0.137
+        },
+        {
+            "text": "interleukin 35-engineered mesenchymal stem cells",
+            "rank": 0.13
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.13
+        },
+        {
+            "text": "embryonic stem cells",
+            "rank": 0.125
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "mesenchymal stem cell (msc)-based cell transplantation",
+            "rank": 0.099
+        },
+        {
+            "text": "mesenchymal stem cells",
+            "rank": 0.093
+        },
+        {
+            "text": "stem cells",
+            "rank": 0.093
+        },
+        {
+            "text": "stem cell therapy",
+            "rank": 0.092
+        },
+        {
+            "text": "direct cell\u2013cell contact",
+            "rank": 0.09
+        }
+    ]
+}

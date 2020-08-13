@@ -1,0 +1,70 @@
+{
+    "cluster": 32,
+    "subcluster": 24,
+    "abstract_phrases": [
+        {
+            "text": "patients",
+            "rank": 0.074
+        },
+        {
+            "text": "laparoscopic liver resection",
+            "rank": 0.062
+        },
+        {
+            "text": "laparoscopic surgery",
+            "rank": 0.062
+        },
+        {
+            "text": "laparoscopic resection",
+            "rank": 0.06
+        },
+        {
+            "text": "gastric leakage",
+            "rank": 0.058
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "laparoscopic liver surgery",
+            "rank": 0.114
+        },
+        {
+            "text": "laparoscopic liver resections",
+            "rank": 0.111
+        },
+        {
+            "text": "laparoscopic caudate lobectomy",
+            "rank": 0.105
+        },
+        {
+            "text": "laparoscopic",
+            "rank": 0.102
+        },
+        {
+            "text": "tehran obesity treatment study",
+            "rank": 0.1
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "patients",
+            "rank": 0.071
+        },
+        {
+            "text": "laparoscopic liver surgery",
+            "rank": 0.066
+        },
+        {
+            "text": "laparoscopic liver resections",
+            "rank": 0.065
+        },
+        {
+            "text": "laparoscopic surgery",
+            "rank": 0.064
+        },
+        {
+            "text": "laparoscopic resection",
+            "rank": 0.062
+        }
+    ]
+}

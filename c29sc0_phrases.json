@@ -1,0 +1,70 @@
+{
+    "cluster": 29,
+    "subcluster": 0,
+    "abstract_phrases": [
+        {
+            "text": "human cells",
+            "rank": 0.106
+        },
+        {
+            "text": "human stem cells",
+            "rank": 0.102
+        },
+        {
+            "text": "epithelial cells",
+            "rank": 0.094
+        },
+        {
+            "text": "cells",
+            "rank": 0.094
+        },
+        {
+            "text": "cell culture",
+            "rank": 0.093
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "epithelial cells",
+            "rank": 0.131
+        },
+        {
+            "text": "limbal epithelial stem cell population",
+            "rank": 0.128
+        },
+        {
+            "text": "human kidney",
+            "rank": 0.127
+        },
+        {
+            "text": "human",
+            "rank": 0.113
+        },
+        {
+            "text": "miceconditional cell",
+            "rank": 0.11
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "human cells",
+            "rank": 0.108
+        },
+        {
+            "text": "human stem cells",
+            "rank": 0.105
+        },
+        {
+            "text": "epithelial cells",
+            "rank": 0.097
+        },
+        {
+            "text": "human renal tubule cells",
+            "rank": 0.096
+        },
+        {
+            "text": "kidney cells",
+            "rank": 0.095
+        }
+    ]
+}

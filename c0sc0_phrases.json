@@ -1,0 +1,70 @@
+{
+    "cluster": 0,
+    "subcluster": 0,
+    "abstract_phrases": [
+        {
+            "text": "covid-19 patients",
+            "rank": 0.105
+        },
+        {
+            "text": "covid-19 symptoms",
+            "rank": 0.099
+        },
+        {
+            "text": "patients",
+            "rank": 0.082
+        },
+        {
+            "text": "covid-19",
+            "rank": 0.081
+        },
+        {
+            "text": "covid-19 disease",
+            "rank": 0.08
+        }
+    ],
+    "title_phrases": [
+        {
+            "text": "new onset anosmia",
+            "rank": 0.133
+        },
+        {
+            "text": "covid-19self-reported anosmia",
+            "rank": 0.126
+        },
+        {
+            "text": "new york city emergency departments",
+            "rank": 0.102
+        },
+        {
+            "text": "covid-19 screening",
+            "rank": 0.097
+        },
+        {
+            "text": "dysgeusia",
+            "rank": 0.097
+        }
+    ],
+    "title_abstract_phrases": [
+        {
+            "text": "covid-19 patients",
+            "rank": 0.105
+        },
+        {
+            "text": "covid-19 symptoms",
+            "rank": 0.099
+        },
+        {
+            "text": "covid-19",
+            "rank": 0.081
+        },
+        {
+            "text": "covid-19 disease",
+            "rank": 0.081
+        },
+        {
+            "text": "patients",
+            "rank": 0.081
+        }
+    ]
+}
